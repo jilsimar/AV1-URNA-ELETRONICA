@@ -1,0 +1,68 @@
+E:\urna eletrônica - grupo 5\urna eletrônica - grupo 5\bin\Debug\urna eletrônica - grupo 5.exe.config
+E:\urna eletrônica - grupo 5\urna eletrônica - grupo 5\bin\Debug\urna eletrônica - grupo 5.exe
+E:\urna eletrônica - grupo 5\urna eletrônica - grupo 5\bin\Debug\urna eletrônica - grupo 5.pdb
+E:\urna eletrônica - grupo 5\urna eletrônica - grupo 5\obj\Debug\urna eletrônica - grupo 5.csprojResolveAssemblyReference.cache
+E:\urna eletrônica - grupo 5\urna eletrônica - grupo 5\obj\Debug\urna_eletrônica___grupo_5.Form1.resources
+E:\urna eletrônica - grupo 5\urna eletrônica - grupo 5\obj\Debug\urna_eletrônica___grupo_5.Properties.Resources.resources
+E:\urna eletrônica - grupo 5\urna eletrônica - grupo 5\obj\Debug\urna eletrônica - grupo 5.csproj.GenerateResource.Cache
+E:\urna eletrônica - grupo 5\urna eletrônica - grupo 5\obj\Debug\urna eletrônica - grupo 5.exe
+E:\urna eletrônica - grupo 5\urna eletrônica - grupo 5\obj\Debug\urna eletrônica - grupo 5.pdb
+G:\urna eletrônica - grupo 5\urna eletrônica - grupo 5\bin\Debug\urna eletrônica - grupo 5.exe.config
+G:\urna eletrônica - grupo 5\urna eletrônica - grupo 5\bin\Debug\urna eletrônica - grupo 5.exe
+G:\urna eletrônica - grupo 5\urna eletrônica - grupo 5\bin\Debug\urna eletrônica - grupo 5.pdb
+G:\urna eletrônica - grupo 5\urna eletrônica - grupo 5\obj\Debug\urna eletrônica - grupo 5.csprojAssemblyReference.cache
+G:\urna eletrônica - grupo 5\urna eletrônica - grupo 5\obj\Debug\urna_eletrônica___grupo_5.Form1.resources
+G:\urna eletrônica - grupo 5\urna eletrônica - grupo 5\obj\Debug\urna_eletrônica___grupo_5.Properties.Resources.resources
+G:\urna eletrônica - grupo 5\urna eletrônica - grupo 5\obj\Debug\urna eletrônica - grupo 5.csproj.GenerateResource.cache
+G:\urna eletrônica - grupo 5\urna eletrônica - grupo 5\obj\Debug\urna eletrônica - grupo 5.csproj.CoreCompileInputs.cache
+G:\urna eletrônica - grupo 5\urna eletrônica - grupo 5\obj\Debug\urna eletrônica - grupo 5.exe
+G:\urna eletrônica - grupo 5\urna eletrônica - grupo 5\obj\Debug\urna eletrônica - grupo 5.pdb
+D:\urna eletrônica - grupo 5\urna eletrônica - grupo 5\bin\Debug\urna eletrônica - grupo 5.exe.config
+D:\urna eletrônica - grupo 5\urna eletrônica - grupo 5\bin\Debug\urna eletrônica - grupo 5.exe
+D:\urna eletrônica - grupo 5\urna eletrônica - grupo 5\bin\Debug\urna eletrônica - grupo 5.pdb
+D:\urna eletrônica - grupo 5\urna eletrônica - grupo 5\obj\Debug\urna eletrônica - grupo 5.csprojResolveAssemblyReference.cache
+D:\urna eletrônica - grupo 5\urna eletrônica - grupo 5\obj\Debug\urna_eletrônica___grupo_5.Form1.resources
+D:\urna eletrônica - grupo 5\urna eletrônica - grupo 5\obj\Debug\urna_eletrônica___grupo_5.Properties.Resources.resources
+D:\urna eletrônica - grupo 5\urna eletrônica - grupo 5\obj\Debug\urna eletrônica - grupo 5.csproj.GenerateResource.Cache
+D:\urna eletrônica - grupo 5\urna eletrônica - grupo 5\obj\Debug\urna eletrônica - grupo 5.exe
+D:\urna eletrônica - grupo 5\urna eletrônica - grupo 5\obj\Debug\urna eletrônica - grupo 5.pdb
+F:\urna eletrônica - grupo 5\urna eletrônica - grupo 5\bin\Debug\urna eletrônica - grupo 5.exe.config
+F:\urna eletrônica - grupo 5\urna eletrônica - grupo 5\bin\Debug\urna eletrônica - grupo 5.exe
+F:\urna eletrônica - grupo 5\urna eletrônica - grupo 5\bin\Debug\urna eletrônica - grupo 5.pdb
+F:\urna eletrônica - grupo 5\urna eletrônica - grupo 5\obj\Debug\urna eletrônica - grupo 5.csprojResolveAssemblyReference.cache
+F:\urna eletrônica - grupo 5\urna eletrônica - grupo 5\obj\Debug\urna_eletrônica___grupo_5.Form1.resources
+F:\urna eletrônica - grupo 5\urna eletrônica - grupo 5\obj\Debug\urna_eletrônica___grupo_5.Properties.Resources.resources
+F:\urna eletrônica - grupo 5\urna eletrônica - grupo 5\obj\Debug\urna eletrônica - grupo 5.csproj.GenerateResource.Cache
+F:\urna eletrônica - grupo 5\urna eletrônica - grupo 5\obj\Debug\urna eletrônica - grupo 5.exe
+F:\urna eletrônica - grupo 5\urna eletrônica - grupo 5\obj\Debug\urna eletrônica - grupo 5.pdb
+D:\urna eletrônica - grupo 5 (novo)\urna eletrônica - grupo 5\bin\Debug\urna eletrônica - grupo 5.exe.config
+D:\urna eletrônica - grupo 5 (novo)\urna eletrônica - grupo 5\bin\Debug\urna eletrônica - grupo 5.exe
+D:\urna eletrônica - grupo 5 (novo)\urna eletrônica - grupo 5\bin\Debug\urna eletrônica - grupo 5.pdb
+D:\urna eletrônica - grupo 5 (novo)\urna eletrônica - grupo 5\obj\Debug\urna eletrônica - grupo 5.csprojAssemblyReference.cache
+D:\urna eletrônica - grupo 5 (novo)\urna eletrônica - grupo 5\obj\Debug\urna_eletrônica___grupo_5.Form1.resources
+D:\urna eletrônica - grupo 5 (novo)\urna eletrônica - grupo 5\obj\Debug\urna_eletrônica___grupo_5.Properties.Resources.resources
+D:\urna eletrônica - grupo 5 (novo)\urna eletrônica - grupo 5\obj\Debug\urna eletrônica - grupo 5.csproj.GenerateResource.cache
+D:\urna eletrônica - grupo 5 (novo)\urna eletrônica - grupo 5\obj\Debug\urna eletrônica - grupo 5.csproj.CoreCompileInputs.cache
+D:\urna eletrônica - grupo 5 (novo)\urna eletrônica - grupo 5\obj\Debug\urna eletrônica - grupo 5.exe
+D:\urna eletrônica - grupo 5 (novo)\urna eletrônica - grupo 5\obj\Debug\urna eletrônica - grupo 5.pdb
+E:\urna eletrônica - grupo 5 (novo)\urna eletrônica - grupo 5\bin\Debug\urna eletrônica - grupo 5.exe.config
+E:\urna eletrônica - grupo 5 (novo)\urna eletrônica - grupo 5\bin\Debug\urna eletrônica - grupo 5.exe
+E:\urna eletrônica - grupo 5 (novo)\urna eletrônica - grupo 5\bin\Debug\urna eletrônica - grupo 5.pdb
+E:\urna eletrônica - grupo 5 (novo)\urna eletrônica - grupo 5\obj\Debug\urna eletrônica - grupo 5.csprojAssemblyReference.cache
+E:\urna eletrônica - grupo 5 (novo)\urna eletrônica - grupo 5\obj\Debug\urna_eletrônica___grupo_5.Form1.resources
+E:\urna eletrônica - grupo 5 (novo)\urna eletrônica - grupo 5\obj\Debug\urna_eletrônica___grupo_5.Properties.Resources.resources
+E:\urna eletrônica - grupo 5 (novo)\urna eletrônica - grupo 5\obj\Debug\urna eletrônica - grupo 5.csproj.GenerateResource.cache
+E:\urna eletrônica - grupo 5 (novo)\urna eletrônica - grupo 5\obj\Debug\urna eletrônica - grupo 5.csproj.CoreCompileInputs.cache
+E:\urna eletrônica - grupo 5 (novo)\urna eletrônica - grupo 5\obj\Debug\urna eletrônica - grupo 5.exe
+E:\urna eletrônica - grupo 5 (novo)\urna eletrônica - grupo 5\obj\Debug\urna eletrônica - grupo 5.pdb
+E:\urna eletrônica - grupo 5 (novo)++\urna eletrônica - grupo 5\bin\Debug\urna eletrônica - grupo 5.exe.config
+E:\urna eletrônica - grupo 5 (novo)++\urna eletrônica - grupo 5\bin\Debug\urna eletrônica - grupo 5.exe
+E:\urna eletrônica - grupo 5 (novo)++\urna eletrônica - grupo 5\bin\Debug\urna eletrônica - grupo 5.pdb
+E:\urna eletrônica - grupo 5 (novo)++\urna eletrônica - grupo 5\obj\Debug\urna eletrônica - grupo 5.csprojAssemblyReference.cache
+E:\urna eletrônica - grupo 5 (novo)++\urna eletrônica - grupo 5\obj\Debug\urna_eletrônica___grupo_5.Form1.resources
+E:\urna eletrônica - grupo 5 (novo)++\urna eletrônica - grupo 5\obj\Debug\urna_eletrônica___grupo_5.Properties.Resources.resources
+E:\urna eletrônica - grupo 5 (novo)++\urna eletrônica - grupo 5\obj\Debug\urna eletrônica - grupo 5.csproj.GenerateResource.cache
+E:\urna eletrônica - grupo 5 (novo)++\urna eletrônica - grupo 5\obj\Debug\urna eletrônica - grupo 5.csproj.CoreCompileInputs.cache
+E:\urna eletrônica - grupo 5 (novo)++\urna eletrônica - grupo 5\obj\Debug\urna eletrônica - grupo 5.exe
+E:\urna eletrônica - grupo 5 (novo)++\urna eletrônica - grupo 5\obj\Debug\urna eletrônica - grupo 5.pdb
+E:\urna eletrônica - grupo 5 (novo)++\urna eletrônica - grupo 5\obj\Debug\urna_eletrônica___grupo_5.Form2.resources
